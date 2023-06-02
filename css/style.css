@@ -49,7 +49,7 @@ body {
     margin-top: -10px;
 }
 
-/* top */
+/* Card de cima */
 input {
     border: 2px solid var(--light_grey);
     border-radius: 5px;
@@ -78,11 +78,11 @@ h3 {
     color: var(--light_red);
 }
 
-/* mid */
+/* Card do meio */
 button {
     border-radius: 50%;
     height: 100px;
-    width: 75px;
+    width: 110px;
     background-color: var(--purple);
     margin: auto 0;
     border: 0px;
@@ -106,7 +106,7 @@ hr {
     border: 1px solid var(--light_grey);
 }
 
-/* bottom */
+/* Card de baixo */
 h2 {
     font-weight: 800;
     font-style: italic;
